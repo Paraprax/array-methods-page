@@ -4,3 +4,16 @@ body {
   font-family: "Courier New", Courier, monospace;
   font-size: x-large;
 }
+
+.method-name {
+  font-size: "18pt";
+  font-weight: bold;
+}
+
+.method-effect {
+  font-size: "16pt";
+}
+
+.method-output {
+  font-size: "16pt";
+}
